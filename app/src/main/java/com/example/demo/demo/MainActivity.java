@@ -18,8 +18,8 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         //jjk得到jkjkjk
-        FloatingActionButton fabs = (FloatingActionButton) findViewById(R.id.fab);
-        fabs.setOnClickListener(new View.OnClickListener() {
+        FloatingActionButton fabs22 = (FloatingActionButton) findViewById(R.id.fab);
+        fabs22.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
