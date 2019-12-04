@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        //jjk得到jk
+        //jjk得到jkh'h'h
         FloatingActionButton fabs = (FloatingActionButton) findViewById(R.id.fab);
         fabs.setOnClickListener(new View.OnClickListener() {
             @Override
