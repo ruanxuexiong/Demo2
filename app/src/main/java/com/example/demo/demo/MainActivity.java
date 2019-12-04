@@ -17,13 +17,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        //jjk得到
+        //jjk得到jkh'h'h77j'j'j'j'j-----------
         FloatingActionButton fabp = (FloatingActionButton) findViewById(R.id.fab);
         fabp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action----0001110--", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+                Snackbar.make(view, "Replace with your own action----000yyyy0--", Snackbar.LENGTH_LONG)
             }
         });
     }
