@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         //jjk得到jkh'h'h
-        FloatingActionButton fabs = (FloatingActionButton) findViewById(R.id.fab);
+        FloatingActionButton fabp'p = (FloatingActionButton) findViewById(R.id.fab);
         fabs.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
